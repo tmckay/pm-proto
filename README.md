@@ -11,3 +11,20 @@
  * Make it valueable and a joy for even non-PM stakeholders
  * Providing background for a project is a first-class aspect of project management
  * Ability to map a system design of the project to ownership teams
+
+## Planning Phases
+
+### Building a backlog
+ * Course grained, rough estimates using t-shirt sizes i.e. S, M, L, XL
+
+### Creating and grooming epics
+ * Refine rough outlines from backlog
+ * Clarify what's in scope
+ * Start to create user stories
+
+### Sprint planning
+ * Turn epics into tickets with story points
+
+### Progress management
+ * Need high level view of project progress
+ * Would like to see view of interdependencies and critical path of project
